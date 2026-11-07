@@ -1,0 +1,13 @@
+{
+ "schema": 1,
+ "published": "2026-11-05",
+ "master": {
+  "version": "2026-11-05d",
+  "url": "master/ingredient_master.json",
+  "sha256": "55cf4e52f843eedf9a0e6a4a792d2347316beaa50d95a1ca95afbd00e2d217fd",
+  "bytes": 2400458,
+  "ingredient_count": 1340,
+  "min_app": "1.0"
+ },
+ "news": []
+}
